@@ -1,1 +1,1 @@
-Causal Detection of Critical Slowing Down
+Causal approach to Critical Slowing Down
