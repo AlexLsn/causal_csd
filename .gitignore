@@ -26,13 +26,15 @@ graphs_*
 
 notebooks/trash.ipynb
 notebooks/test.ipynb
-notebooks/plots.ipynb
+notebooks/toKeep.ipynb
 notebooks/Pitchfork.ipynb
 notebooks/GIS_AMOC_Klose_models.ipynb
 notebooks/GIS_AMOC_simple_model.ipynb
 notebooks/rescaling_detrending.ipynb
 notebooks/Ritchie_AMOC.ipynb
 
+functions/helpers.py
+functions/data_analysis.py
 
 boxplot_Caesar_CWG_KNN.pkl
 boxplot_Caesar_CWG_LinReg_det.pkl
@@ -50,8 +52,7 @@ boxplot_SNN1_CWG_LinReg_fullDet_70_tau.pkl
 boxplot_SNN1_FWF_LinReg_det_30.pkl
 boxplot_SNN1_FWF_LinReg_fullDet_30_tau.pkl
 boxplot_SNN1_FWF_LinReg_fullDet_30.pkl
-Causal_detection_of_critical_slowing_down__actual_.pdf
-Jakob Runge's Personal Meeting Room 2024-11-21 10_20 AM_Page 1-\[1732187364140].pdf
+Research_article__Causal_method_corrects_biases_in_early_warning_signals_of_interacting_climate_tipping_elements.pdf
 tigramite_env.yml
 __pycache__/mpi.cpython-310.pyc
 __pycache__/mpi.cpython-312.pyc
@@ -77,4 +78,5 @@ TippingInteractions_GIS-AMOC/Plotting_CascadeCorridor.py
 TippingInteractions_GIS-AMOC/Plotting_CascadeCorridors_ParameterSpace.ipynb
 notebooks/GIS_AMOC_Klose_model.ipynb
 TippingInteractions_GIS-AMOC/LICENSE.txt
+causalCSD_coverletter.docx
 
