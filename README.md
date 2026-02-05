@@ -1,1 +1,1 @@
-Code used in the article: Causal method corrects biases in early-warning signals of interacting climate tipping elements
+Code used in the article: Causal inference corrects biases in early-warning signals of interacting climate tipping elements
