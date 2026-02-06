@@ -1,2 +1,0 @@
-Note: the 'EN422_NA_salinity_am_d300.npy' file was created from EN4 data using the same code as in: https://github.com/niklasboers/AMOC_EWS/blob/main/salinity.py.
-The other data is directly available as described in the paper.
