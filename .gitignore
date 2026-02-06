@@ -26,3 +26,6 @@ graphs_*
 notebooks/others/
 
 functions/data_analysis.py
+
+simulations/generated_data/
+simulations/indicators/
