@@ -9,7 +9,7 @@ from tigramite import data_processing as pp
 
 
 
-##### Functions for deriving the DCE #####
+##### Functions for deriving the Self-Causation #####
 
 
 def produce_intervention_data(ts, margin, n_points):
